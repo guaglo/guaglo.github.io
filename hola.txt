@@ -1,0 +1,1 @@
+haciendo mi primer commit desde linux y tambien configurado el SSH
